@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>课序 · 上班助手 — 下载</title>
+  <style>
+    :root { --ink:#10233f; --sub:#5b6b82; --accent:#0b63d8; --soft:#eef5ff; --line:#dbe6f3; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family:"Microsoft YaHei UI","PingFang SC",system-ui,sans-serif; color:var(--ink); background:linear-gradient(180deg,#f7fbff 0%,#eef5ff 100%); }
+    main { max-width:920px; margin:0 auto; padding:72px 24px 56px; }
+    .badge { display:inline-block; padding:6px 12px; border-radius:999px; color:var(--accent); background:#fff; border:1px solid var(--line); font-size:13px; font-weight:600; }
+    h1 { font-size:46px; line-height:1.15; margin:20px 0 10px; letter-spacing:-1px; }
+    .lead { color:var(--sub); font-size:17px; line-height:1.8; margin:0 0 28px; }
+    .actions { display:flex; gap:12px; flex-wrap:wrap; margin:28px 0 12px; }
+    .btn { display:inline-block; padding:14px 22px; border-radius:12px; text-decoration:none; font-weight:700; }
+    .primary { color:#fff; background:var(--accent); box-shadow:0 8px 22px rgba(11,99,216,.22); }
+    .secondary { color:var(--accent); background:#fff; border:1px solid var(--line); }
+    .meta { color:var(--sub); font-size:13px; }
+    .grid { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin:38px 0; }
+    .card { background:#fff; border:1px solid var(--line); border-radius:16px; padding:18px; }
+    .card h3 { margin:0 0 8px; font-size:15px; }
+    .card p { margin:0; color:var(--sub); font-size:13px; line-height:1.7; }
+    .steps { background:#fff; border:1px solid var(--line); border-radius:18px; padding:24px; margin:28px 0; }
+    .steps h2 { margin:0 0 12px; font-size:20px; }
+    .steps ol { margin:0; padding-left:22px; color:var(--sub); line-height:2; }
+    .note { color:var(--sub); font-size:12px; line-height:1.8; margin-top:26px; }
+    @media (max-width:700px) { h1{font-size:34px} .grid{grid-template-columns:1fr} main{padding-top:44px} }
+  </style>
+</head>
+<body>
+<main>
+  <span class="badge">Windows 10 / 11 · 免费</span>
+  <h1>课序 · 上班助手</h1>
+  <p class="lead">给老师、培训师和每天要站讲台的人用的本地桌面工作台。<br>课程表、上课提醒、签到、校历、值班、监考、待办和统计，安静地放在一个窗口里。</p>
+  <div class="actions">
+    <a class="btn primary" href="https://github.com/feihesl/kexu-releases/releases/latest/download/KeXu-win64.zip">下载 Windows 版</a>
+    <a class="btn secondary" href="https://github.com/feihesl/kexu-releases/releases">查看所有版本</a>
+  </div>
+  <div class="meta">最新版本：v3.1.1 · 安装包约 3 MB · 无需管理员权限</div>
+
+  <div class="grid">
+    <div class="card"><h3>本地优先</h3><p>数据保存在你自己的电脑，不需要注册账号，也不会上传课程、学生和值班信息。</p></div>
+    <div class="card"><h3>自动更新</h3><p>启动时检查新版本，下载后校验文件完整性；确认后自动替换并重启。</p></div>
+    <div class="card"><h3>桌面常驻</h3><p>悬浮窗、托盘提醒、开机问候和重点人名提示，适合每天上课的节奏。</p></div>
+  </div>
+
+  <section class="steps">
+    <h2>安装方法</h2>
+    <ol>
+      <li>下载 <strong>KeXu-win64.zip</strong>。</li>
+      <li>解压到任意文件夹。</li>
+      <li>双击 <strong>安装.cmd</strong>，程序会安装到当前用户目录并创建桌面快捷方式。</li>
+      <li>以后有新版本时，课序会自动检查并提示更新。</li>
+    </ol>
+  </section>
+
+  <section class="steps">
+    <h2>移动版计划</h2>
+    <p class="lead" style="font-size:14px;margin:0">桌面版是 Windows WPF 应用，手机端不能直接复用界面。后续移动版会单独开发跨平台客户端，并配套账号与云同步服务；当前版本继续以本地数据和自动更新为主。</p>
+  </section>
+
+  <p class="note">如果 Windows 首次运行提示“未知发布者”，这是因为目前没有购买代码签名证书。可以点击“更多信息 → 仍要运行”。后续版本会逐步完善签名和安装体验。</p>
+</main>
+</body>
+</html>
