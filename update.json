@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "url": "https://github.com/feihesl/kexu-releases/releases/download/v3.1.0/KeXu.exe",
+  "url": "https://github.com/feihesl/kexu-releases/releases/download/v3.1.0/KeXu-3.1.0.exe",
   "sha256": "f65277662be6886cf7e54658c3d4950024a3190468705444f2963d1d56e4638d",
   "notes": "在线发布版：新增自动检查更新、安装脚本和公开下载页。",
   "page": "https://feihesl.github.io/kexu-releases/"
