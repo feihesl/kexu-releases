@@ -1,7 +1,7 @@
 {
-    "version":  "3.1.9",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.9/KeXu-3.1.9.exe",
-    "sha256":  "0d1acb3ad09651dd6c2546f2be409ef0dfb9627124fd85a799216df5ae227fa9",
-    "notes":  "工作量主数字去除单位，修正出勤与日历弹窗",
+    "version":  "3.2.0",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.0/KeXu-3.2.0.exe",
+    "sha256":  "d3ee91bbec98b24ee4e944bfbbef6ecdce36ae61a30d389a746afdca39e3c18e",
+    "notes":  "整体文字放大，优化出勤设置和日历弹窗",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
