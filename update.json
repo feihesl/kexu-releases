@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.0",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.0/KeXu-3.2.0.exe",
-    "sha256":  "d3ee91bbec98b24ee4e944bfbbef6ecdce36ae61a30d389a746afdca39e3c18e",
-    "notes":  "整体文字放大，优化出勤设置和日历弹窗",
+    "version":  "3.2.1",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.1/KeXu-3.2.1.exe",
+    "sha256":  "0c23de9199d13dbe1741fd3c5da1260e053e05b8e71cc29f2598f9c17d920073",
+    "notes":  "采用小字优先方案放大文字",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
