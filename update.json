@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.2",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.2/KeXu-3.2.2.exe",
-    "sha256":  "a58253ffd7afded5c49fd4391dca55a49fe0720139f0e8b647bfeb8934474aa0",
-    "notes":  "修复排版错位并统一页面按钮字号",
+    "version":  "3.2.3",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.3/KeXu-3.2.3.exe",
+    "sha256":  "71dc213a50a24e5beae86e379ac196c2595ce6054d32513ec9715164f9f44146",
+    "notes":  "增加课程工作量悬浮明细、本周授课和监考工作量统计",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
