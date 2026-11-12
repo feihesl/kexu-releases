@@ -1,7 +1,7 @@
 {
-    "version":  "3.1.1",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.1/KeXu-3.1.1.exe",
-    "sha256":  "e706e3abb327c628009af067f6bd22822ecba2769dae8702f8660edc5db5f23a",
-    "notes":  "验证一键发布与自动更新",
+    "version":  "3.1.2",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.2/KeXu-3.1.2.exe",
+    "sha256":  "0c74c6bf7050750caac0a00d42a8866b801e7935772f18433953ff1c1b1c1438",
+    "notes":  "课序 3.1.2 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
