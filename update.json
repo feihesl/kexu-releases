@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.5",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.5/KeXu-3.2.5.exe",
-    "sha256":  "44ccbdcf411f852e2a71833cee55a1ebb5924c73af9b2e5b0eca80f9a2ae5b29",
-    "notes":  "完善个人监考标注、侧栏用户名和明细横向滚动",
+    "version":  "3.2.6",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.6/KeXu-3.2.6.exe",
+    "sha256":  "5fd654a27adc57a1d5a423740a88c581ea90b11ce54cf2046bfc616df01eb82b",
+    "notes":  "修复侧栏用户名被截断；监考「人员」补上任课教师；自动保存从 6 秒缩短到 2 秒；安装脚本改为纯批处理；下载页显示 SHA-256。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
