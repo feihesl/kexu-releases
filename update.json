@@ -1,7 +1,7 @@
 {
-    "version":  "3.1.5",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.5/KeXu-3.1.5.exe",
-    "sha256":  "ae0364f724dcdbd82ebf1e01b88441236f3d16af153b117fba7a928c83f689ef",
-    "notes":  "出勤卡片恢复两段式布局、更新弹窗与侧栏图标",
+    "version":  "3.1.6",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.6/KeXu-3.1.6.exe",
+    "sha256":  "c9ed6bbea11eafeb9527c66de1cb8805244a8110e09b79f9c80018df0c4b1c8f",
+    "notes":  "区分上课次数与课时，优化出勤卡片和日历",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
