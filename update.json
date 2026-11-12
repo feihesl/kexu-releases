@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.4",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.4/KeXu-3.2.4.exe",
-    "sha256":  "1dbfefe8f260f21f5a82d693e4fcc0db6a7691f0950d0145724f1d665f0ff7cf",
-    "notes":  "增加用户名身份、个人监考值班统计和最近课堂列优化",
+    "version":  "3.2.5",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.5/KeXu-3.2.5.exe",
+    "sha256":  "44ccbdcf411f852e2a71833cee55a1ebb5924c73af9b2e5b0eca80f9a2ae5b29",
+    "notes":  "完善个人监考标注、侧栏用户名和明细横向滚动",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
