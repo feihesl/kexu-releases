@@ -1,7 +1,7 @@
 {
-    "version":  "3.1.4",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.4/KeXu-3.1.4.exe",
-    "sha256":  "064d8b1f9bf57a5a79776dacb7d188feebdc80a9266d22bd1eb9e567d77953f9",
-    "notes":  "日历出勤改为绿色圆点，完善更新提醒与出勤天数",
+    "version":  "3.1.5",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.5/KeXu-3.1.5.exe",
+    "sha256":  "ae0364f724dcdbd82ebf1e01b88441236f3d16af153b117fba7a928c83f689ef",
+    "notes":  "出勤卡片恢复两段式布局、更新弹窗与侧栏图标",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
