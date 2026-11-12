@@ -4,11 +4,29 @@
 
 ![今日总览](screenshots/home.png)
 
+## 安装时可能看到的 Windows 提示
+
+课序没有购买代码签名证书，所以第一次运行时 Windows 可能弹出「Windows 已保护你的电脑」。
+这是 SmartScreen 对「未签名的新程序」的常规提醒，不是病毒报告：
+
+1. 点提示框里的「更多信息」
+2. 点「仍要运行」
+
+安装**不需要管理员权限**：课序只写入当前用户的 `%LOCALAPPDATA%\Programs\KeXu`，
+不碰系统目录、不注册服务、不改全局注册表。
+
+想确认下载的文件没被掉包，可以把文件算一遍 SHA-256，和
+[update.json](https://feihesl.github.io/kexu-releases/update.json) 里的 `sha256` 比对：
+
+```powershell
+Get-FileHash .\KeXu-*.exe -Algorithm SHA256
+```
 
 ## 下载与更新
 
 - 下载页：https://feihesl.github.io/kexu-releases/
 - 最新安装包：[Releases](https://github.com/feihesl/kexu-releases/releases)
+- 安装到当前用户目录，不需要管理员权限；快捷方式在第一次运行时自动创建。
 
 ## 3.1.0 在线发布与自动更新
 
