@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.3",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.3/KeXu-3.2.3.exe",
-    "sha256":  "71dc213a50a24e5beae86e379ac196c2595ce6054d32513ec9715164f9f44146",
-    "notes":  "增加课程工作量悬浮明细、本周授课和监考工作量统计",
+    "version":  "3.2.4",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.4/KeXu-3.2.4.exe",
+    "sha256":  "1dbfefe8f260f21f5a82d693e4fcc0db6a7691f0950d0145724f1d665f0ff7cf",
+    "notes":  "增加用户名身份、个人监考值班统计和最近课堂列优化",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
