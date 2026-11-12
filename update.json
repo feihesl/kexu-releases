@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.1",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.1/KeXu-3.2.1.exe",
-    "sha256":  "0c23de9199d13dbe1741fd3c5da1260e053e05b8e71cc29f2598f9c17d920073",
-    "notes":  "采用小字优先方案放大文字",
+    "version":  "3.2.2",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.2/KeXu-3.2.2.exe",
+    "sha256":  "a58253ffd7afded5c49fd4391dca55a49fe0720139f0e8b647bfeb8934474aa0",
+    "notes":  "修复排版错位并统一页面按钮字号",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
