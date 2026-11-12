@@ -1,7 +1,7 @@
 {
-    "version":  "3.1.7",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.7/KeXu-3.1.7.exe",
-    "sha256":  "ec2ddb9395717cb3cb78f942cca1bf3f9b7f176c4799a8ed3773e67bf1dce74c",
-    "notes":  "出勤区间上下排列，移除日历弹窗上课值班数字",
+    "version":  "3.1.8",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.8/KeXu-3.1.8.exe",
+    "sha256":  "80dd1a8dadfb8ea24d24c9cb5df3b82c85c6f45319cd80c6a28c8e99f5abb4c1",
+    "notes":  "上课统计统一按节计算，1次课折算2节",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
