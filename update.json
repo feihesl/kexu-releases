@@ -1,7 +1,7 @@
 {
-    "version":  "3.1.2",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.2/KeXu-3.1.2.exe",
-    "sha256":  "0c74c6bf7050750caac0a00d42a8866b801e7935772f18433953ff1c1b1c1438",
-    "notes":  "课序 3.1.2 更新",
+    "version":  "3.1.3",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.1.3/KeXu-3.1.3.exe",
+    "sha256":  "98ae92aebb5589094b9cf58f4d55fa24a9d431b3b42552f28eb6d3b6114e8eda",
+    "notes":  "优化日历出勤颜色、更新提醒与首页出勤卡片",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
