@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.15",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.15/KeXu-3.2.15.exe",
-    "sha256":  "73623cc9892071c0775f8111efb0dce84e681e01d9410659b1a5c423ef4974bf",
-    "notes":  "调整左下角反馈入口位置",
+    "version":  "3.2.16",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.16/KeXu-3.2.16.exe",
+    "sha256":  "6d3944acd402efcb02a179a331663cd98b54d5b889b10b46119b0edab6dff6b5",
+    "notes":  "放大意见反馈字样并改为黑色",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
