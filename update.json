@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.35",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.35/KeXu-3.2.35.exe",
-    "sha256":  "d9422ffb6c8fd4662d2b2d6a6fc43d71c237591132da3993775166e9183e7b17",
-    "notes":  "待办默认当前时间、今日概览、设置排序和值班空格添加",
+    "version":  "3.2.36",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.36/KeXu-3.2.36.exe",
+    "sha256":  "2179ff12cecf6b92d6a502ce5b6f5f084e1be426556b3736ce6d9458046d0011",
+    "notes":  "设置大类支持拖动手柄排序",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
