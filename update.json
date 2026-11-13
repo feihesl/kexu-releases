@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.27",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.27/KeXu-3.2.27.exe",
-    "sha256":  "cbdf99259f96ba17e35ae3a5232ff0d8f985a2ac7e2f3c4e957423cf2174543e",
-    "notes":  "增加全部教学周课程表导出，发布包只含空白程序",
+    "version":  "3.2.28",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.28/KeXu-3.2.28.exe",
+    "sha256":  "7ae88f9455e52dfb37579c39e1844ceeefcccb5a5acb1e54c6ee5f46021ee75d",
+    "notes":  "分开问候开关、按课程表模板导出并保留空白发布包",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
