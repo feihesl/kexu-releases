@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.10",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.10/KeXu-3.2.10.exe",
-    "sha256":  "7c99e7c83e0374912790a647d8dc429fc9b806411be3ae6b8b3d5cae62c2c5a3",
-    "notes":  "进一步缩小悬浮窗边缘弹出范围",
+    "version":  "3.2.11",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.11/KeXu-3.2.11.exe",
+    "sha256":  "79ea785ffe71d87287fb885e6bcc7026b5a716c371e96697001ec51e481dcf41",
+    "notes":  "增加问卷星和微信反馈通道、诊断信息复制",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
