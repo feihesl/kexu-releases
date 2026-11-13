@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.8",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.8/KeXu-3.2.8.exe",
-    "sha256":  "a55ee81cefd78cc47b302eb956e089c52c80221d9d698ea3c58955425d7172f8",
-    "notes":  "更新检查失败改为友好提示并记住最近版本",
+    "version":  "3.2.9",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.9/KeXu-3.2.9.exe",
+    "sha256":  "900cd70b1d4a0a81b7ae3a1c4f4fd9b2cce6c870d5cf71aeee05da8aadc218df",
+    "notes":  "缩小悬浮窗边缘弹出感应范围",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
