@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.43",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.43/KeXu-3.2.43.exe",
-    "sha256":  "983a616d6c0c44d090440628e7b1545ea47f76637078e670b15906f12c308ce4",
-    "notes":  "课序 3.2.43 更新",
+    "version":  "3.2.44",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.44/KeXu-3.2.44.exe",
+    "sha256":  "9e3131129f566adb431880c4db45cb3ab931991ace93ab426b12f9b60021ce69",
+    "notes":  "修复未开课课程被提示为已经开始和补发",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
