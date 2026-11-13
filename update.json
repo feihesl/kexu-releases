@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.45",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.45/KeXu-3.2.45.exe",
-    "sha256":  "50e683f84bcb7b303e0c60a7a0887c4071f0ea7138eff154ce247750dc6fc83d",
-    "notes":  "修复校历本周卡片与右侧卡片底部不对齐",
+    "version":  "3.2.46",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.46/KeXu-3.2.46.exe",
+    "sha256":  "db87b6d3a3988065f14d0262c8b16d59c0c0f06c7cef1c4401e6a04b48969fc6",
+    "notes":  "校历总览大事件可点击编辑；完善上课提醒文案",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
