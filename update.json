@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.31",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.31/KeXu-3.2.31.exe",
-    "sha256":  "dbb1acef321c796b57271d87ffb5b42df6840c78dcd6f97d0ce97da80697f77b",
-    "notes":  "恢复问候默认时间但不显示默认说明，课程表空格补边框",
+    "version":  "3.2.32",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.32/KeXu-3.2.32.exe",
+    "sha256":  "27ff61981ca48d4c0e49e0beb2992b4814c192c398cf67b3a4b02a9275817c2c",
+    "notes":  "课程表空格改为黑色边框",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
