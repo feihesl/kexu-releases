@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.39",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.39/KeXu-3.2.39.exe",
-    "sha256":  "f3c6be1fa3a7c570d295346836f146d29f876c7e7dc6208b9e685fab603b1fa6",
-    "notes":  "设置排序实时让位、拖动浮层和无刷新应用顺序",
+    "version":  "3.2.40",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.40/KeXu-3.2.40.exe",
+    "sha256":  "ca54890f4bcc96b21e90e03d48108084c428020fbb4c765d3d7aa1658d602310",
+    "notes":  "修复设置排序拖动手势无法启动",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
