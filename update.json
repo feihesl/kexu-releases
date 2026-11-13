@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.46",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.46/KeXu-3.2.46.exe",
-    "sha256":  "db87b6d3a3988065f14d0262c8b16d59c0c0f06c7cef1c4401e6a04b48969fc6",
-    "notes":  "校历总览大事件可点击编辑；完善上课提醒文案",
+    "version":  "3.2.47",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.47/KeXu-3.2.47.exe",
+    "sha256":  "5b297539326e08cd84a863a826ca8c3d85b7022c7d00ac62c1652a72da7c8f38",
+    "notes":  "校历总览点击格子打开编辑窗口",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
