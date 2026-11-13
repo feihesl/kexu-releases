@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.23",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.23/KeXu-3.2.23.exe",
-    "sha256":  "549cdada4b8c0b53e8937223e7525692f04813d0be2ff869a9c6d4f8ab6cf638",
-    "notes":  "监考和值班标注本周",
+    "version":  "3.2.24",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.24/KeXu-3.2.24.exe",
+    "sha256":  "e71bd3fcac5c028832dad198dbbc50588b0c89bf3758b9f7ee7133e9e9355307",
+    "notes":  "增强值班本周标注，监考增加本周和今日筛选",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
