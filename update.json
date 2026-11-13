@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.14",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.14/KeXu-3.2.14.exe",
-    "sha256":  "407b3958179d1a404587d38af13e275fdbc0e91811b7af1df30fc1a972f722b2",
-    "notes":  "反馈入口移到左下角，设置中移除反馈并删除诊断信息",
+    "version":  "3.2.15",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.15/KeXu-3.2.15.exe",
+    "sha256":  "73623cc9892071c0775f8111efb0dce84e681e01d9410659b1a5c423ef4974bf",
+    "notes":  "调整左下角反馈入口位置",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
