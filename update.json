@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.17",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.17/KeXu-3.2.17.exe",
-    "sha256":  "9bae22e9acf9767ce40de1c5d56f727909b0b763179d4b11666cfcc699989acb",
-    "notes":  "意见反馈颜色与侧栏未选中项一致",
+    "version":  "3.2.18",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.18/KeXu-3.2.18.exe",
+    "sha256":  "a7b5b4fa8230c273eee75e61a36fa6ac7c9c6a4f89848f3bbcd4b65dc6804ca1",
+    "notes":  "意见反馈弹窗改为上下结构",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
