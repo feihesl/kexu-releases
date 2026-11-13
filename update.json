@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.20",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.20/KeXu-3.2.20.exe",
-    "sha256":  "b2a248a2a884f5f6685e1f235e0656bec635b7c856beb6612c6ed04464b29682",
-    "notes":  "增加值班姓名查询并统一监考汇总框高度",
+    "version":  "3.2.21",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.21/KeXu-3.2.21.exe",
+    "sha256":  "e9476061fd9fe4e983fcf4139e1e367e6587c371dd4c716feab4f51a0b410d16",
+    "notes":  "优化值班查询、校历本周标注和上课签到时间限制",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
