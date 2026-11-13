@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.37",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.37/KeXu-3.2.37.exe",
-    "sha256":  "125ba082625e4835831960be8d99c5f80e2a4eac58f15ba873d628a657c5eb0d",
-    "notes":  "设置排序改为悬浮窗拖动",
+    "version":  "3.2.38",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.38/KeXu-3.2.38.exe",
+    "sha256":  "8c4faf2ddd62a63c1f1b3d37b8fdbdbc45762e5df7d13e1c99fd4c86ece2fe33",
+    "notes":  "设置排序增加拖动浮层和重排动画",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
