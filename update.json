@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.40",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.40/KeXu-3.2.40.exe",
-    "sha256":  "ca54890f4bcc96b21e90e03d48108084c428020fbb4c765d3d7aa1658d602310",
-    "notes":  "修复设置排序拖动手势无法启动",
+    "version":  "3.2.41",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.41/KeXu-3.2.41.exe",
+    "sha256":  "17eb0c3be73ae6f818f121ab087ea4a61ab8a6fe82df65467783e6f1983f0e65",
+    "notes":  "课序 3.2.41 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
