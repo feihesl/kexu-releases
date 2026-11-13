@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.6",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.6/KeXu-3.2.6.exe",
-    "sha256":  "5fd654a27adc57a1d5a423740a88c581ea90b11ce54cf2046bfc616df01eb82b",
-    "notes":  "修复侧栏用户名被截断；监考「人员」补上任课教师；自动保存从 6 秒缩短到 2 秒；安装脚本改为纯批处理；下载页显示 SHA-256。",
+    "version":  "3.2.7",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.7/KeXu-3.2.7.exe",
+    "sha256":  "b6037904813e4d3745afd42f60808fe3a6eceefc5657339b456c3fe5232ff63b",
+    "notes":  "更新检查增加备用地址、重试和失败提示",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
