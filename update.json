@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.32",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.32/KeXu-3.2.32.exe",
-    "sha256":  "27ff61981ca48d4c0e49e0beb2992b4814c192c398cf67b3a4b02a9275817c2c",
-    "notes":  "课程表空格改为黑色边框",
+    "version":  "3.2.33",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.33/KeXu-3.2.33.exe",
+    "sha256":  "327c731876b8542310ee70e7824c1034cc5e81de056ab4416518e739918cf0c9",
+    "notes":  "课序 3.2.33 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
