@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.33",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.33/KeXu-3.2.33.exe",
-    "sha256":  "327c731876b8542310ee70e7824c1034cc5e81de056ab4416518e739918cf0c9",
-    "notes":  "课序 3.2.33 更新",
+    "version":  "3.2.34",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.34/KeXu-3.2.34.exe",
+    "sha256":  "318e6c2a5bb8747bbe7e863869cb3df75a986ab34bf46f81c9c7ba1fcd79756d",
+    "notes":  "新增待办不再显示补发提醒",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
