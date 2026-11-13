@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.21",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.21/KeXu-3.2.21.exe",
-    "sha256":  "e9476061fd9fe4e983fcf4139e1e367e6587c371dd4c716feab4f51a0b410d16",
-    "notes":  "优化值班查询、校历本周标注和上课签到时间限制",
+    "version":  "3.2.22",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.22/KeXu-3.2.22.exe",
+    "sha256":  "d1a0548a85bbfc4ea316ee97e1a62d0a673620f68d4cee6a7163f81a0f231679",
+    "notes":  "值班查询框改为浅色，优化首页按钮布局",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
