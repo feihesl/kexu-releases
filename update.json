@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.26",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.26/KeXu-3.2.26.exe",
-    "sha256":  "553675e9426b79a628008063f1a92939d622e69afc4beb6841b1aacdaedaf4ad",
-    "notes":  "更新监考模板、放大值班表字体、增加课程表导出并确保发布包不含用户数据",
+    "version":  "3.2.27",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.27/KeXu-3.2.27.exe",
+    "sha256":  "cbdf99259f96ba17e35ae3a5232ff0d8f985a2ac7e2f3c4e957423cf2174543e",
+    "notes":  "增加全部教学周课程表导出，发布包只含空白程序",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
