@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.36",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.36/KeXu-3.2.36.exe",
-    "sha256":  "2179ff12cecf6b92d6a502ce5b6f5f084e1be426556b3736ce6d9458046d0011",
-    "notes":  "设置大类支持拖动手柄排序",
+    "version":  "3.2.37",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.37/KeXu-3.2.37.exe",
+    "sha256":  "125ba082625e4835831960be8d99c5f80e2a4eac58f15ba873d628a657c5eb0d",
+    "notes":  "设置排序改为悬浮窗拖动",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
