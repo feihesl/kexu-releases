@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.25",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.25/KeXu-3.2.25.exe",
-    "sha256":  "0af3e9574bdbea72c31d66439e2c1f8ee27b796fd055265833bb9aa4ed080848",
-    "notes":  "增加监考值班模板导出和午休问候",
+    "version":  "3.2.26",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.26/KeXu-3.2.26.exe",
+    "sha256":  "553675e9426b79a628008063f1a92939d622e69afc4beb6841b1aacdaedaf4ad",
+    "notes":  "更新监考模板、放大值班表字体、增加课程表导出并确保发布包不含用户数据",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
