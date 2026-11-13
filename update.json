@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.44",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.44/KeXu-3.2.44.exe",
-    "sha256":  "9e3131129f566adb431880c4db45cb3ab931991ace93ab426b12f9b60021ce69",
-    "notes":  "修复未开课课程被提示为已经开始和补发",
+    "version":  "3.2.45",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.45/KeXu-3.2.45.exe",
+    "sha256":  "50e683f84bcb7b303e0c60a7a0887c4071f0ea7138eff154ce247750dc6fc83d",
+    "notes":  "修复校历本周卡片与右侧卡片底部不对齐",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
