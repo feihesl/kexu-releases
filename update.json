@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.29",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.29/KeXu-3.2.29.exe",
-    "sha256":  "f5f18033b45084fded1ab886fb685eac31a69def7ea33bd0becd6d5b498ec64c",
-    "notes":  "清理课程表模板中的示例和姓名",
+    "version":  "3.2.30",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.30/KeXu-3.2.30.exe",
+    "sha256":  "06822f835d411cb8d05c9519ea074cf6c5db450b4229389feb03777855e62165",
+    "notes":  "问候时间不再默认、午休提醒更明显、课程表导出全部课程并加边框",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
