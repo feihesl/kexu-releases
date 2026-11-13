@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.30",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.30/KeXu-3.2.30.exe",
-    "sha256":  "06822f835d411cb8d05c9519ea074cf6c5db450b4229389feb03777855e62165",
-    "notes":  "问候时间不再默认、午休提醒更明显、课程表导出全部课程并加边框",
+    "version":  "3.2.31",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.31/KeXu-3.2.31.exe",
+    "sha256":  "dbb1acef321c796b57271d87ffb5b42df6840c78dcd6f97d0ce97da80697f77b",
+    "notes":  "恢复问候默认时间但不显示默认说明，课程表空格补边框",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
