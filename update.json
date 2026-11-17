@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.49",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.49/KeXu-3.2.49.exe",
-    "sha256":  "13e5b51a21fefd0beabf7c5b77a4d46a23c67afa453a7a69ae439f70b93a46b6",
-    "notes":  "修复校历总览点击格子不弹编辑窗口",
+    "version":  "3.2.50",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.50/KeXu-3.2.50.exe",
+    "sha256":  "41e133afb9302a69b0bca5c053b0498c8590a24d8fbd57827efd913c4584ebeb",
+    "notes":  "修复 Excel 校历日期与事件识别，优化图片校历解析",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
