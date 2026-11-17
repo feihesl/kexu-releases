@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.57",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.57/KeXu-3.2.57.exe",
-    "sha256":  "5965af4d9634a1652eab050edaadd805a7487b5fa376ce68938d0794e51aefae",
-    "notes":  "统计卡片本月与本周位置调换",
+    "version":  "3.2.58",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.58/KeXu-3.2.58.exe",
+    "sha256":  "2be0203be15dfe3b2e8abd64cdb0ba7098ab90361aa6f7979af780ac1815dfa8",
+    "notes":  "整理按钮合并分段课程；班级页文案与课程数统计优化",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
