@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.63",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.63/KeXu-3.2.63.exe",
-    "sha256":  "6686d6c2c3d6cfc27574d4a3008cd27a8ff0bd029b86fa885ef6fb1574c9aad3",
-    "notes":  "学期起始改为开学第一天，按钮改为设为今天",
+    "version":  "3.2.64",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.64/KeXu-3.2.64.exe",
+    "sha256":  "44c863f0bcdb1098944168ad7fb9758ea54b3ed93b6faf56af20a97ef7052322",
+    "notes":  "优化导入识别，为确保识别准确率，目前只可识别excel；优化界面设计",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
