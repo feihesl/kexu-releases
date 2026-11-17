@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.66",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.66/KeXu-3.2.66.exe",
-    "sha256":  "a6bd0e6e3a64fdb903afa6a364c11ad37f6421f4d17a86d2a38a4cc58635e7b5",
-    "notes":  "课序 3.2.66 更新",
+    "version":  "3.2.67",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.67/KeXu-3.2.67.exe",
+    "sha256":  "ae674e199c6986757e876695e16ed6eeeba12cd7dc6b980258c30fc1a14f1d53",
+    "notes":  "首次启动内置当前校历",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
