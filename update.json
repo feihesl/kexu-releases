@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.62",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.62/KeXu-3.2.62.exe",
-    "sha256":  "7df9d50ae2b8b7430f81aec1e76db6a9d1d47dfe1184f5434450bdcf90364e7c",
-    "notes":  "大事件提醒说明随设置时间更新",
+    "version":  "3.2.63",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.63/KeXu-3.2.63.exe",
+    "sha256":  "6686d6c2c3d6cfc27574d4a3008cd27a8ff0bd029b86fa885ef6fb1574c9aad3",
+    "notes":  "学期起始改为开学第一天，按钮改为设为今天",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
