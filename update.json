@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.58",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.58/KeXu-3.2.58.exe",
-    "sha256":  "2be0203be15dfe3b2e8abd64cdb0ba7098ab90361aa6f7979af780ac1815dfa8",
-    "notes":  "整理按钮合并分段课程；班级页文案与课程数统计优化",
+    "version":  "3.2.59",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.59/KeXu-3.2.59.exe",
+    "sha256":  "28e2e0ba6491852848df477f5c8d24b18f9bad6344cb466166ed0efa31778c50",
+    "notes":  "班级页去掉重复标题、课程悬浮显示名称、整理结果强制提示",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
