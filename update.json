@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.59",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.59/KeXu-3.2.59.exe",
-    "sha256":  "28e2e0ba6491852848df477f5c8d24b18f9bad6344cb466166ed0efa31778c50",
-    "notes":  "班级页去掉重复标题、课程悬浮显示名称、整理结果强制提示",
+    "version":  "3.2.60",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.60/KeXu-3.2.60.exe",
+    "sha256":  "772ba49c41c0a4bf8798984bde64258e3e30ae3566b1539332101e167e19f2ff",
+    "notes":  "整理结果提示改为显示1秒",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
