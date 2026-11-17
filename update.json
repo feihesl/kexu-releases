@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.54",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.54/KeXu-3.2.54.exe",
-    "sha256":  "548adf77d9205cd153f1217187f80d55d6c66fb27171dc383d11d37e5bc94a41",
-    "notes":  "暂停图片、PDF、Word 导入，仅支持 Excel 并加说明",
+    "version":  "3.2.55",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.55/KeXu-3.2.55.exe",
+    "sha256":  "aba975f062d40619b335ad4d1fcda1f0863a2e7f5c6679dde965f7fc6b412ffc",
+    "notes":  "课序 3.2.55 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
