@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.68",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.68/KeXu-3.2.68.exe",
-    "sha256":  "831300927202926df4a3288620abd57e0bc70685a6016350fc7dceedb85f152e",
-    "notes":  "首次启动内置当前值班表",
+    "version":  "3.2.69",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.69/KeXu-3.2.69.exe",
+    "sha256":  "8831908fdda8dfa6d306ac5df59f0662f0b05fdb006fabca02566f74d96e940f",
+    "notes":  "课序 3.2.69 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
