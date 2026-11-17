@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.52",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.52/KeXu-3.2.52.exe",
-    "sha256":  "39a6b66c23989171f2d6812dc0449776500667eb210c927f1b8517a67f303912",
-    "notes":  "修复 Excel 被占用时导入为空，完善校历跨周事件",
+    "version":  "3.2.53",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.53/KeXu-3.2.53.exe",
+    "sha256":  "12e16a8af6220c70260ea5e13dbd3fc1fd4ba76d145d9e9b5063027bf305e26b",
+    "notes":  "跨周事件按整组事件复制到每个覆盖周",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
