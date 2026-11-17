@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.64",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.64/KeXu-3.2.64.exe",
-    "sha256":  "44c863f0bcdb1098944168ad7fb9758ea54b3ed93b6faf56af20a97ef7052322",
-    "notes":  "优化导入识别，为确保识别准确率，目前只可识别excel；优化界面设计",
+    "version":  "3.2.66",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.66/KeXu-3.2.66.exe",
+    "sha256":  "a6bd0e6e3a64fdb903afa6a364c11ad37f6421f4d17a86d2a38a4cc58635e7b5",
+    "notes":  "课序 3.2.66 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
