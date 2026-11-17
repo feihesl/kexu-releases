@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.60",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.60/KeXu-3.2.60.exe",
-    "sha256":  "772ba49c41c0a4bf8798984bde64258e3e30ae3566b1539332101e167e19f2ff",
-    "notes":  "整理结果提示改为显示1秒",
+    "version":  "3.2.61",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.61/KeXu-3.2.61.exe",
+    "sha256":  "58a676715f7b786e92ff7f2f91b35885eee991e5b4bf0bde17af8b8d092d87c9",
+    "notes":  "立即备份写入当前数据并显示1秒结果",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
