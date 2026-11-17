@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.56",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.56/KeXu-3.2.56.exe",
-    "sha256":  "9901eca3ec698bba6ade8b704a2a335298a91e45ba9bdd64b0239069b05f0ce4",
-    "notes":  "统计页新增本月上课工作量并保持五张卡片同一行",
+    "version":  "3.2.57",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.57/KeXu-3.2.57.exe",
+    "sha256":  "5965af4d9634a1652eab050edaadd805a7487b5fa376ce68938d0794e51aefae",
+    "notes":  "统计卡片本月与本周位置调换",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
