@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.50",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.50/KeXu-3.2.50.exe",
-    "sha256":  "41e133afb9302a69b0bca5c053b0498c8590a24d8fbd57827efd913c4584ebeb",
-    "notes":  "修复 Excel 校历日期与事件识别，优化图片校历解析",
+    "version":  "3.2.51",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.51/KeXu-3.2.51.exe",
+    "sha256":  "7f6f8c5e3daa2efbeafb83a356bcf5a20972a12ffa3ecb64c819c4b072642b15",
+    "notes":  "校历跨周事件会填入覆盖的每个周次",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
