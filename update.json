@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.85",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.85/KeXu-3.2.85.exe",
-    "sha256":  "44f83021515dc7c95ca0a4f476ae794489004b70250a989a8f451482dba2d283",
-    "notes":  "课序 3.2.85 更新",
+    "version":  "3.2.86",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.86/KeXu-3.2.86.exe",
+    "sha256":  "c7490a19f4f0236de587aa1226f0501b4b3dd0b098ae1da31b41a885e605fa63",
+    "notes":  "今日卡片对齐并清理左上卡片右上角痕迹",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
