@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.83",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.83/KeXu-3.2.83.exe",
-    "sha256":  "4a1e9192abf1d01e296ebc75f270040a74be258bc1d5a6e621a7fa3e0cec3ee3",
-    "notes":  "修复监考工作量公式无法显示和编辑",
+    "version":  "3.2.85",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.85/KeXu-3.2.85.exe",
+    "sha256":  "44f83021515dc7c95ca0a4f476ae794489004b70250a989a8f451482dba2d283",
+    "notes":  "课序 3.2.85 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
