@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.77",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.77/KeXu-3.2.77.exe",
-    "sha256":  "be81d1e2af48d8e011ab9d09b70f04b751fcf2fc479e510aadb81496c1174d4f",
-    "notes":  "安装包加入完整许可协议",
+    "version":  "3.2.78",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.78/KeXu-3.2.78.exe",
+    "sha256":  "f37011f5258779413f9f08f50d63fcc326c3519daa245794c7fc770ed2d3d3c8",
+    "notes":  "许可协议内置兜底并随安装包提供",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
