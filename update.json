@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.70",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.70/KeXu-3.2.70.exe",
-    "sha256":  "b20785eddd82dd6995f4a451375962afb044bf52031efdcab4562cd35b12ae49",
-    "notes":  "新增新用户使用指引，可在设置中重新查看",
+    "version":  "3.2.71",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.71/KeXu-3.2.71.exe",
+    "sha256":  "1f53722e9b011f6b38a6f21f388a195d6733005eb761215f9a432ab27786827c",
+    "notes":  "使用指引同时高亮左侧板块并移除连接线",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
