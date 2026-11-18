@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.71",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.71/KeXu-3.2.71.exe",
-    "sha256":  "1f53722e9b011f6b38a6f21f388a195d6733005eb761215f9a432ab27786827c",
-    "notes":  "使用指引同时高亮左侧板块并移除连接线",
+    "version":  "3.2.72",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.72/KeXu-3.2.72.exe",
+    "sha256":  "7c666e05ccb36a81eb6fe244c23f3830feeac7f13f407293095d33f8815f6674",
+    "notes":  "设置中可更改数据保存位置",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
