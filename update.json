@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.73",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.73/KeXu-3.2.73.exe",
-    "sha256":  "21b84acaef58eb0db6f7d94c9aecfd2381743dd345364a2c048e83a51865a8f4",
-    "notes":  "监考人筛选与统计只匹配主监考和副监考",
+    "version":  "3.2.74",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.74/KeXu-3.2.74.exe",
+    "sha256":  "8699d94f58cd785a3ca9f30a4b34c5f4aff5970b72660df741fb16d5d9263203",
+    "notes":  "表格仅我的包含任课教师，监考人时间统计仍只算主副监考",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
