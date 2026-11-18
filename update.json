@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.74",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.74/KeXu-3.2.74.exe",
-    "sha256":  "8699d94f58cd785a3ca9f30a4b34c5f4aff5970b72660df741fb16d5d9263203",
-    "notes":  "表格仅我的包含任课教师，监考人时间统计仍只算主副监考",
+    "version":  "3.2.75",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.75/KeXu-3.2.75.exe",
+    "sha256":  "5171c18264d65e2dc409762cd78c83234e9c931d0251b85e8b5641ee8162576a",
+    "notes":  "设置中增加版权声明",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
