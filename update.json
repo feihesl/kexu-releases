@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.72",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.72/KeXu-3.2.72.exe",
-    "sha256":  "7c666e05ccb36a81eb6fe244c23f3830feeac7f13f407293095d33f8815f6674",
-    "notes":  "设置中可更改数据保存位置",
+    "version":  "3.2.73",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.73/KeXu-3.2.73.exe",
+    "sha256":  "21b84acaef58eb0db6f7d94c9aecfd2381743dd345364a2c048e83a51865a8f4",
+    "notes":  "监考人筛选与统计只匹配主监考和副监考",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
