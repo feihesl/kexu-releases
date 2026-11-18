@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.80",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.80/KeXu-3.2.80.exe",
-    "sha256":  "8dd7172dde119755fe34004e7d79d6d248524a67f28f0be062bc66abb998bc09",
-    "notes":  "发布包增加 SHA256SUMS",
+    "version":  "3.2.81",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.81/KeXu-3.2.81.exe",
+    "sha256":  "08530e8ead71ef07b6a91276b416e7b4e4f99c351fbaa4c509e347f0bfdb84a0",
+    "notes":  "监考设置中可自定义工作量公式",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
