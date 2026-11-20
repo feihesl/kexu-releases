@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.87",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.87/KeXu-3.2.87.exe",
-    "sha256":  "e7899cbd58720c3988e7d01427564ceafe8e4be1a99a1f63d7841d492d3693d3",
-    "notes":  "使用指引的跳过按钮更醒目",
+    "version":  "3.2.88",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.88/KeXu-3.2.88.exe",
+    "sha256":  "5126de994bb3191440ee14e727c3537145b9be73a2327ec707b04f44a1f89abf",
+    "notes":  "课程表导入支持 .xls，并修复教务课表结构化识别",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
