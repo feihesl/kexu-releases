@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.91",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.91/KeXu-3.2.91.exe",
-    "sha256":  "62fb3ab35ff9ddef3e3ff4d675d055912b5c2e086cafe0b3248f25ed98357150",
-    "notes":  "修复校历学年识别、保留事件标题，并完成模板随机导入回归",
+    "version":  "3.2.92",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.92/KeXu-3.2.92.exe",
+    "sha256":  "64bacbfa98d6d57bbde264f4737e98b63287b51b350a22eb1e9cd751582d8ff0",
+    "notes":  "修复课程表预览合并不同地点或周次课程",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
