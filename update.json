@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.90",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.90/KeXu-3.2.90.exe",
-    "sha256":  "6567b29227ab726fbb42cd374c6e1660c1611ba66278d6cb73ce56fddda16ba2",
-    "notes":  "课序 3.2.90 更新",
+    "version":  "3.2.91",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.91/KeXu-3.2.91.exe",
+    "sha256":  "62fb3ab35ff9ddef3e3ff4d675d055912b5c2e086cafe0b3248f25ed98357150",
+    "notes":  "修复校历学年自动识别和事件标题保留，完成模板随机导入回归",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
