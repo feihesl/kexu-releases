@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.94",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.94/KeXu-3.2.94.exe",
-    "sha256":  "37470fe15e0b3847f07df241a5b35fcc83149e29d414e27ed2b5519fad6b0845",
-    "notes":  "修复关闭只记录课时后未持久化的问题",
+    "version":  "3.2.95",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.95/KeXu-3.2.95.exe",
+    "sha256":  "02b4e14081c39d15c74dab06a6fe957ad71e59bb7d27ab86bdd23c87efcffbc7",
+    "notes":  "同名课程同步学生名单和颜色",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
