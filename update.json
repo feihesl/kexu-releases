@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.93",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.93/KeXu-3.2.93.exe",
-    "sha256":  "f19f8930cd8aef039d1d36e0c372102f8f958804271d708085a9ce4b4a778c26",
-    "notes":  "支持列表式教务课程表导入",
+    "version":  "3.2.94",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.94/KeXu-3.2.94.exe",
+    "sha256":  "37470fe15e0b3847f07df241a5b35fcc83149e29d414e27ed2b5519fad6b0845",
+    "notes":  "修复关闭只记录课时后未持久化的问题",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
