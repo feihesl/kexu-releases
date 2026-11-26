@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.98",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.98/KeXu-3.2.98.exe",
-    "sha256":  "f0beb2726d7b009ee66791152ae0dc775c3a7776951a798970166e97c6abbd50",
-    "notes":  "课序 3.2.98 更新",
+    "version":  "3.2.99",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.99/KeXu-3.2.99.exe",
+    "sha256":  "e461386f1a2eb42bb6e6c209cd8ab023dc4f70a4bd9d0ed019f8ec0673241757",
+    "notes":  "课序 3.2.99 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
