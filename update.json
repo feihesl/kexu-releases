@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.99",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.99/KeXu-3.2.99.exe",
-    "sha256":  "e461386f1a2eb42bb6e6c209cd8ab023dc4f70a4bd9d0ed019f8ec0673241757",
-    "notes":  "课序 3.2.99 更新",
+    "version":  "3.3.0",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.3.0/KeXu-3.3.0.exe",
+    "sha256":  "d4a67a02db553225c91d8e559de07d3d4a513ea3b63b11eb96507f242873af02",
+    "notes":  "首页校历事件改为单行，收紧顶部卡片与页面留白，底部内容无需滚动即可完整显示；同时修复倒计时刷新和查看课程表按钮裁切。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
