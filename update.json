@@ -1,7 +1,7 @@
 {
-    "version":  "3.2.96",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.96/KeXu-3.2.96.exe",
-    "sha256":  "a95b6f84a3a9a3db7750501d44f954ec45365f09c83536685b5529d9b99a2066",
-    "notes":  "自动同步同名课程名单和颜色",
+    "version":  "3.2.98",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.2.98/KeXu-3.2.98.exe",
+    "sha256":  "f0beb2726d7b009ee66791152ae0dc775c3a7776951a798970166e97c6abbd50",
+    "notes":  "课序 3.2.98 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
