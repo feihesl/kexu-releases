@@ -1,7 +1,7 @@
 {
-    "version":  "3.4.2",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.4.2/KeXu-3.4.2.exe",
-    "sha256":  "72e60158985b97adabf10c2b2597e935ba3ced713dfcf945dda48943f80d8f01",
-    "notes":  "统计设置的月度明细与卡片口径一致：预估本月按截至本周统计，悬浮明细不再多算下周一课程。",
+    "version":  "3.4.3",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.4.3/KeXu-3.4.3.exe",
+    "sha256":  "1663054958b0b50db8b01a68fc481a22134730ff73ff3566a39f2f1de8d86864",
+    "notes":  "今日页在较高窗口中自动拉伸中间课程/待办区域，底部不再出现大块空白。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
