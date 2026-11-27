@@ -1,7 +1,7 @@
 {
-    "version":  "3.3.1",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.3.1/KeXu-3.3.1.exe",
-    "sha256":  "82500ea158a91a709243e0300d466d55ba2ee6fa5c0d83f8d64eaf6eb7984a67",
-    "notes":  "值班姓名导入自动补空格，旧数据自动修复；检索支持无空格人名，包含对应字样即可高亮。",
+    "version":  "3.4.0",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.4.0/KeXu-3.4.0.exe",
+    "sha256":  "2690dea4221ba0265cd1f40fd06b66ff2ccf98e122f35eebcd43828fea2f7505",
+    "notes":  "新增统计口径设置：默认预估出勤和上课，计入未上的课和未记录的出勤；可切换为真实口径，仅统计已完成记录。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
