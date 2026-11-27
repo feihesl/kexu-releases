@@ -1,7 +1,7 @@
 {
-    "version":  "3.5.1",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.5.1/KeXu-3.5.1.exe",
-    "sha256":  "d385626c21e4fdcb0014da5b1f2a871c255cc165b6f6f9f8f08be96736d2287b",
-    "notes":  "共享同步改为文件方式：任何人都可导出自己的值班/监考文件，也可导入他人文件；支持把 JSON 拖进课序自动弹出确认，设置中已移除共享文件夹配置。",
+    "version":  "3.5.2",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.5.2/KeXu-3.5.2.exe",
+    "sha256":  "4e23efb001017304726567031d2f2f0fdeaa0e3866cd64335dcf8c923c60804c",
+    "notes":  "导出/导入共享文件前可选择项目，默认全选、点击变灰取消；支持大值班、监考、校历、班级、课程表和待办。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
