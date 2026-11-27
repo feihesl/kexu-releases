@@ -1,7 +1,7 @@
 {
-    "version":  "3.4.3",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.4.3/KeXu-3.4.3.exe",
-    "sha256":  "1663054958b0b50db8b01a68fc481a22134730ff73ff3566a39f2f1de8d86864",
-    "notes":  "今日页在较高窗口中自动拉伸中间课程/待办区域，底部不再出现大块空白。",
+    "version":  "3.5.0",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.5.0/KeXu-3.5.0.exe",
+    "sha256":  "61548eda7ea03884879151f0ccdaeb7da047de48f76964472554c17d7fb5c343",
+    "notes":  "新增共享同步：通过校内共享目录或网盘发布值班/监考快照；用户按需检查并整表同步，覆盖前可导出Excel备份或跳转查看对应板块。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
