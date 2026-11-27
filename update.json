@@ -1,7 +1,7 @@
 {
-    "version":  "3.4.0",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.4.0/KeXu-3.4.0.exe",
-    "sha256":  "2690dea4221ba0265cd1f40fd06b66ff2ccf98e122f35eebcd43828fea2f7505",
-    "notes":  "新增统计口径设置：默认预估出勤和上课，计入未上的课和未记录的出勤；可切换为真实口径，仅统计已完成记录。",
+    "version":  "3.4.1",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.4.1/KeXu-3.4.1.exe",
+    "sha256":  "595ee5ec9f6d26a36449062513499686abfd8cc6d618da16fd9c164e10134f90",
+    "notes":  "统计设置移到学期和数据之间，切换口径不再跳回设置顶部；修复旧签到记录重复计数，本月按截至本周的课程表统计。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
