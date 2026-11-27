@@ -1,7 +1,7 @@
 {
-    "version":  "3.3.0",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.3.0/KeXu-3.3.0.exe",
-    "sha256":  "d4a67a02db553225c91d8e559de07d3d4a513ea3b63b11eb96507f242873af02",
-    "notes":  "首页校历事件改为单行，收紧顶部卡片与页面留白，底部内容无需滚动即可完整显示；同时修复倒计时刷新和查看课程表按钮裁切。",
+    "version":  "3.3.1",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.3.1/KeXu-3.3.1.exe",
+    "sha256":  "82500ea158a91a709243e0300d466d55ba2ee6fa5c0d83f8d64eaf6eb7984a67",
+    "notes":  "值班姓名导入自动补空格，旧数据自动修复；检索支持无空格人名，包含对应字样即可高亮。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
