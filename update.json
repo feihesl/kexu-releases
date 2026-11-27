@@ -1,7 +1,7 @@
 {
-    "version":  "3.4.1",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.4.1/KeXu-3.4.1.exe",
-    "sha256":  "595ee5ec9f6d26a36449062513499686abfd8cc6d618da16fd9c164e10134f90",
-    "notes":  "统计设置移到学期和数据之间，切换口径不再跳回设置顶部；修复旧签到记录重复计数，本月按截至本周的课程表统计。",
+    "version":  "3.4.2",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.4.2/KeXu-3.4.2.exe",
+    "sha256":  "72e60158985b97adabf10c2b2597e935ba3ced713dfcf945dda48943f80d8f01",
+    "notes":  "统计设置的月度明细与卡片口径一致：预估本月按截至本周统计，悬浮明细不再多算下周一课程。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
