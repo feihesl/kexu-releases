@@ -1,7 +1,7 @@
 {
-    "version":  "3.5.4",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.5.4/KeXu-3.5.4.exe",
-    "sha256":  "5371c77489aef3e498733f08c45319e284d65f53ec7f51f144487411662d9445",
-    "notes":  "统计悬停显示实际日期区间：真实口径到当天，预估口径到本月/本周完整日期；统计页顶部工作量卡片也支持同样明细。",
+    "version":  "3.5.5",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.5.5/KeXu-3.5.5.exe",
+    "sha256":  "ad685fa342888e181bdcc4740ac3ca5750b45de2e3c06909af37aa0a8748c6c7",
+    "notes":  "课序 3.5.5 更新",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
