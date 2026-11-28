@@ -1,7 +1,7 @@
 {
-    "version":  "3.5.3",
-    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.5.3/KeXu-3.5.3.exe",
-    "sha256":  "2713353290ce24235a1dd035c14d4a0e44a48eae2f23d92dc03f9c8e1549d649",
-    "notes":  "修复真实口径下重复签到记录重复计数：同一日期、课程名和开始时间只算一次，本月和累计工作量恢复为课程表实际数量。",
+    "version":  "3.5.4",
+    "url":  "https://github.com/feihesl/kexu-releases/releases/download/v3.5.4/KeXu-3.5.4.exe",
+    "sha256":  "5371c77489aef3e498733f08c45319e284d65f53ec7f51f144487411662d9445",
+    "notes":  "统计悬停显示实际日期区间：真实口径到当天，预估口径到本月/本周完整日期；统计页顶部工作量卡片也支持同样明细。",
     "page":  "https://feihesl.github.io/kexu-releases/"
 }
