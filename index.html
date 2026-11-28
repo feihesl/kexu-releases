@@ -52,8 +52,8 @@
     <a class="btn primary" href="https://github.com/feihesl/kexu-releases/releases/latest/download/KeXu-win64.zip">下载 Windows 版</a>
     <a class="btn secondary" href="https://github.com/feihesl/kexu-releases/releases">查看所有版本</a>
   </div>
-  <div class="meta">最新版本：v<span id="version">3.5.3</span> · 安装包约 3 MB · 无需管理员权限</div>
-  <div class="meta">SHA-256：<code id="sha">2713353290ce24235a1dd035c14d4a0e44a48eae2f23d92dc03f9c8e1549d649</code></div>
+  <div class="meta">最新版本：v<span id="version">3.5.4</span> · 安装包约 3 MB · 无需管理员权限</div>
+  <div class="meta">SHA-256：<code id="sha">5371c77489aef3e498733f08c45319e284d65f53ec7f51f144487411662d9445</code></div>
   <div class="meta">下载后可以和 <a href="update.json">update.json</a> 里的 sha256 比对，确认文件没被篡改。</div>
 
   <div class="grid">
@@ -98,7 +98,7 @@
   </footer>
 </main>
 <script>
-  fetch('update.json?v=3.5.3', { cache: 'no-store' })
+  fetch('update.json?v=3.5.4', { cache: 'no-store' })
     .then(function (response) { return response.ok ? response.json() : null; })
     .then(function (data) {
       if (!data) return;
